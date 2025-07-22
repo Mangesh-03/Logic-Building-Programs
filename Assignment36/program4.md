@@ -16,11 +16,11 @@ This C program demonstrates how to display the **smallest digit** of each elemen
 
 **Output:**
 
-1 is smallest of digit of element
-2 is smallest of digit of element
-2 is smallest of digit of element
-6 is smallest of digit of element
-0 is smallest of digit of element
+1 is smallest of digit of element<br>
+2 is smallest of digit of element<br>
+2 is smallest of digit of element<br>
+6 is smallest of digit of element<br>
+0 is smallest of digit of element<br>
 8 is smallest of digit of element
 
 
