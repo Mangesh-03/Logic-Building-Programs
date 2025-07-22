@@ -16,11 +16,11 @@ This C program demonstrates how to display the **product of all digits of each e
 
 **Output:**
 
-1 is product of digit of element
-16 is product of digit of element
-32 is product of digit of element
-6 is product of digit of element
-1 is product of digit of element
+1 is product of digit of element<br>
+16 is product of digit of element<br>
+32 is product of digit of element<br>
+6 is product of digit of element<br>
+1 is product of digit of element<br>
 72 is product of digit of element
 
 
