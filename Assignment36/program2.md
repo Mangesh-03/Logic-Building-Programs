@@ -17,9 +17,9 @@ This C program demonstrates how to display all **palindrome elements** (nodes wh
 **Output of palindrome elements:**
 
 
-11 is pallindrome element
-424 is pallindrome element
-6 is pallindrome element
+11 is pallindrome element<br>
+424 is pallindrome element<br>
+6 is pallindrome element<br>
 121 is pallindrome element
 
 
