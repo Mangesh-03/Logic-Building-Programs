@@ -16,11 +16,11 @@ This C program demonstrates how to display the **largest digit** of each element
 
 **Output:**
 
-1 is Largest of digit of element
-8 is Largest of digit of element
-4 is Largest of digit of element
-6 is Largest of digit of element
-1 is Largest of digit of element
+1 is Largest of digit of element<br>
+8 is Largest of digit of element<br>
+4 is Largest of digit of element<br>
+6 is Largest of digit of element<br>
+1 is Largest of digit of element<br>
 9 is Largest of digit of element
 
 
