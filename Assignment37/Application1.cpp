@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////////////
 //
 // File name :       Application.cpp 
-// Discription :     
+// Discription :     Different functionality of array
 // Author :          Mangesh Ashok Bedre
 // Date :            25/07/2025
 //
@@ -285,5 +285,6 @@ int main()
     cout<<"Sum of all element is : "<<iRet<<"\n";
 
     return 0;
+
 
 }
