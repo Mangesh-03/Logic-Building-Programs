@@ -67,8 +67,7 @@ int main()
     {
         for(j = 0; j < cols; j++)
         {
-            printf("%d\t",
-                Arr[i][j]);
+            printf("%d\t",Arr[i][j]);
         }
         printf("\n");
     }
